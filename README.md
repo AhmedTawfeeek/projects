@@ -1,2 +1,0 @@
-# PAROT
-PAROT graduation project
